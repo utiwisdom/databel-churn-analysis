@@ -156,9 +156,9 @@ databel-churn-analysis/
 ## 👤 Author
  
 **Wisdom Oghenevwede Uti**
-- 🌐 Portfolio: [datascienceportfol.io/wisdomuti8]([https://datascienceportfol.io/wisdomuti8](https://www.datascienceportfol.io/wisdomuti8))
-- 💼 LinkedIn: [linkedin.com/in/wisdomuti]((https://www.linkedin.com/in/uti-wisdom-286602228/))
-- 🐙 GitHub: [github.com/wisdomuti8]((https://github.com/utiwisdom))
+- 🌐 Portfolio: [datascienceportfol.io/wisdomuti8](https://www.datascienceportfol.io/wisdomuti8)
+- 💼 LinkedIn: [linkedin.com/in/uti-wisdom-286602228](https://www.linkedin.com/in/uti-wisdom-286602228/)
+- 🐙 GitHub: [github.com/utiwisdom](https://github.com/utiwisdom)
 - 📧 wisdomuti8@gmail.com
 ---
  
